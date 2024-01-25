@@ -1,6 +1,11 @@
 {
   "name": "@activepieces/piece-dato-cms",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalwert-devs/activepieces-piece-datocms.git",
+  },
+  "description": "An activepieces piece for retrieving records out of a DatoCMS project",
   "dependencies": {
     "@sinclair/typebox": "0.26.8",
     "axios": "^1.6.3",
