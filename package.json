@@ -5,6 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/digitalwert-devs/activepieces-piece-datocms.git",
   },
+  "author": "Sami Salih",
   "description": "An activepieces piece for retrieving records out of a DatoCMS project",
   "dependencies": {
     "@sinclair/typebox": "0.26.8",
