@@ -1,0 +1,1 @@
+{"version":3,"file":"auth.js","sourceRoot":"","sources":["../../../../../../../packages/pieces/dato-cms/src/lib/common/auth.ts"],"names":[],"mappings":";;;AAAA,qEAAqE;AAMxD,QAAA,WAAW,GAAG,4BAAS,CAAC,UAAU,CAAC;IAC5C,QAAQ,EAAE,IAAI;IACd,KAAK,EAAE;QACH,QAAQ,EAAE,2BAAQ,CAAC,SAAS,CAAC;YACzB,WAAW,EAAE,mBAAmB;YAChC,QAAQ,EAAE,IAAI;SACjB,CAAC;KACL;CACJ,CAAC,CAAC"}

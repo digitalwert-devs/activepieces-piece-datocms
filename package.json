@@ -1,6 +1,18 @@
 {
   "name": "@activepieces/piece-dato-cms",
-  "version": "1.0.0",
-  "description": "A piece for activepieces Dato CMS for retrieving records from a project",
-  "author": "Sami Salih - digitalwert®"
+  "version": "0.0.1",
+  "dependencies": {
+    "@sinclair/typebox": "0.26.8",
+    "axios": "^1.6.3",
+    "dayjs": "1.11.9",
+    "is-base64": "1.1.0",
+    "lodash": "4.17.21",
+    "nanoid": "3.3.6",
+    "semver": "7.5.4",
+    "@activepieces/pieces-framework": "0.7.7",
+    "@activepieces/shared": "0.10.54",
+    "tslib": "2.6.2"
+  },
+  "main": "./src/index.js",
+  "type": "commonjs"
 }
