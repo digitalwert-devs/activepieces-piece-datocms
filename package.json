@@ -1,0 +1,6 @@
+{
+  "name": "@activepieces/piece-dato-cms",
+  "version": "1.0.0",
+  "description": "A piece for activepieces Dato CMS for retrieving records from a project",
+  "author": "Sami Salih - digitalwert®"
+}
